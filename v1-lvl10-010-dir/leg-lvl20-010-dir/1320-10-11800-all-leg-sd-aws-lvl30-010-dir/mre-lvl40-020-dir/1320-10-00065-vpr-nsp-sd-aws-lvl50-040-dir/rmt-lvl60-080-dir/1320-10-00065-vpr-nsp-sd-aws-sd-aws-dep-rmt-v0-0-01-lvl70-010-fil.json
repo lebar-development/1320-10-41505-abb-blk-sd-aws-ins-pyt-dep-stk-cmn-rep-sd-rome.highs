@@ -1,0 +1,9 @@
+{
+  "resourceMetadataKEY": "yes",
+  "resourceNameKEY": "kube-public",
+  "ifqridKEY": "1320-10-00065-vpr-nsp-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-00065-vpr-nsp-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "00065",
+  "deletionProtectionFlag11800KEY": "none"
+}
