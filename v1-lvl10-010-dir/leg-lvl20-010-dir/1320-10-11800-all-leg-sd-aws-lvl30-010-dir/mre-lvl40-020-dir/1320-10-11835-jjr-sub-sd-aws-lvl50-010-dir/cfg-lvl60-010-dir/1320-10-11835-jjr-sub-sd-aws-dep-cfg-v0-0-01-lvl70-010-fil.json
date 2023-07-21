@@ -1,0 +1,15 @@
+{
+  "resourceMetadataKEY": "yes",
+  "ipv4CIDRIDKEY": "10.10.176.0/21",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "bot-name",
+    "cfqridKEY": "1320-10-11835-jjr-sub-sd-aws",
+    "resourceTypeKEY": "sub",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
