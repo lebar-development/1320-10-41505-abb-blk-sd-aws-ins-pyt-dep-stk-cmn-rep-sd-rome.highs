@@ -1,0 +1,7 @@
+{
+  "resourceMetadataKEY": "no",
+  "tool1NameKEY": "awscli",
+  "tool1VersionNumberKEY": "2.02.1",   
+  "tool2NameKEY": "kubectl",
+  "tool2VersionNumberKEY": "2.21"   
+}
